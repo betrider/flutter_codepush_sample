@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:restart_app/restart_app.dart';
-
 import 'package:shorebird_code_push/shorebird_code_push.dart';
 
 // Create an instance of ShorebirdCodePush. Because this example only contains
